@@ -1,0 +1,98 @@
+# =========================
+# VARIABLES SECRÈTES
+# =========================
+
+.env
+.env.*
+!.env.example
+
+
+# =========================
+# ENVIRONNEMENTS PYTHON
+# =========================
+
+venv/
+.venv/
+env/
+ENV/
+
+
+# =========================
+# CACHE PYTHON
+# =========================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# =========================
+# JUPYTER NOTEBOOK
+# =========================
+
+.ipynb_checkpoints/
+
+
+# =========================
+# TESTS / QUALITÉ CODE
+# =========================
+
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+
+# =========================
+# PACKAGING PYTHON
+# =========================
+
+build/
+dist/
+*.egg-info/
+
+
+# =========================
+# DONNÉES GÉNÉRÉES / LOURDES
+# =========================
+
+data/raw/
+data/interim/
+data/processed/
+data/output/
+outputs/
+exports/
+
+
+# =========================
+# BASES DE DONNÉES LOCALES
+# =========================
+
+*.sqlite
+*.sqlite3
+*.db
+
+
+# =========================
+# DOCKER / POSTGRES LOCAL
+# =========================
+
+pgdata/
+postgres-data/
+
+
+# =========================
+# FICHIERS SYSTÈME
+# =========================
+
+.DS_Store
+Thumbs.db
+
+
+# =========================
+# ÉDITEURS
+# =========================
+
+.vscode/
+.idea/
