@@ -23,3 +23,7 @@ Recapitulatif semaine 1(jour1):
 \*lecture et analyse de la documentation python, installation de l'environnement de travail, création d'un projet et d'un dépôt git, mise en place d'un fichier README.md et d'un fichier JOURNAL.md pour suivre la progression du projet.
 
 - debut avec quelques exercices en python sur hankerank, sur les variables, boucles, conditions, fonctions et structures de données.
+
+Recapitulatif semaine 1(jour2):
+
+- suite des exercices sur hankerank, sur les variables, boucles, conditions, fonctions et structures de données.
